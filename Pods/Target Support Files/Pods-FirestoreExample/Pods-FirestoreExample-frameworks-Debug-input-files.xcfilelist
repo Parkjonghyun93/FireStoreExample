@@ -1,0 +1,16 @@
+${PODS_ROOT}/Target Support Files/Pods-FirestoreExample/Pods-FirestoreExample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BoringSSL-GRPC/openssl_grpc.framework
+${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework
+${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/Mapbox.framework
+${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/Mapbox.framework.dSYM
+${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/C4CEBB96-98D0-316A-AACC-B5CFBF29F45A.bcsymbolmap
+${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/CDD5B540-1ABC-3204-861B-AA6C2862AEE7.bcsymbolmap
+${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/40708912-75DD-33DC-8FC2-7318A1B6A119.bcsymbolmap
+${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/55B2508F-CAC7-3275-87EF-C25C383DB097.bcsymbolmap
+${BUILT_PRODUCTS_DIR}/MapboxMobileEvents/MapboxMobileEvents.framework
+${BUILT_PRODUCTS_DIR}/PromisesObjC/FBLPromises.framework
+${BUILT_PRODUCTS_DIR}/abseil/absl.framework
+${BUILT_PRODUCTS_DIR}/gRPC-C++/grpcpp.framework
+${BUILT_PRODUCTS_DIR}/gRPC-Core/grpc.framework
+${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework
+${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework
